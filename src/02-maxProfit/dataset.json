@@ -1,0 +1,18 @@
+{
+    "title": "",
+    "caseTitle": "Case $#:\nInput:\n$args\n",
+    "testCases": [
+        {
+            "args": [
+                [7, 1, 5, 3, 6, 4]
+            ],
+            "result": 5
+        },
+        {
+            "args": [
+                [7, 6, 4, 3, 1]
+            ],
+            "result": 0
+        }
+    ]
+}
