@@ -1,0 +1,10 @@
+{
+    "title": "",
+    "caseTitle": "Case $#:\nInput:\n$args\n",
+    "testCases": [
+        {
+            "args": [1],
+            "result": 1
+        }
+    ]
+}
